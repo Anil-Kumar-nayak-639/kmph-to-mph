@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kmph-to-mph/static/css/main.e9915e52.css",
+    "main.js": "/kmph-to-mph/static/js/main.89e99717.js",
+    "static/js/787.c1112931.chunk.js": "/kmph-to-mph/static/js/787.c1112931.chunk.js",
+    "index.html": "/kmph-to-mph/index.html",
+    "main.e9915e52.css.map": "/kmph-to-mph/static/css/main.e9915e52.css.map",
+    "main.89e99717.js.map": "/kmph-to-mph/static/js/main.89e99717.js.map",
+    "787.c1112931.chunk.js.map": "/kmph-to-mph/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9915e52.css",
+    "static/js/main.89e99717.js"
+  ]
+}
